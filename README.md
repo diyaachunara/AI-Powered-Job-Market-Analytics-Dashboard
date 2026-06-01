@@ -8,6 +8,12 @@ The project demonstrates practical data analysis, dashboard development, and bus
 
 ---
 
+## 📸 Dashboard Preview
+
+### Dashboard 
+<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/6c786022-b407-4b1a-9348-a18421b4ca0e" />
+
+
 ## 🎯 Objectives
 
 - Analyze global job market trends.
@@ -88,10 +94,6 @@ The dataset contains over 20,000 job records with information such as:
 
 ---
 
-## 📸 Dashboard Preview
-
-### Dashboard 
-<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/6c786022-b407-4b1a-9348-a18421b4ca0e" />
 
 
 
