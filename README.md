@@ -91,7 +91,8 @@ The dataset contains over 20,000 job records with information such as:
 ## 📸 Dashboard Preview
 
 ### Dashboard 
-![Dashboard Page 1](\Screenshots\Screenshot110.pmg)
+![Dashboard Page 1](<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/6c786022-b407-4b1a-9348-a18421b4ca0e" />
+)
 
 
 
