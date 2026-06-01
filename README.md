@@ -6,7 +6,6 @@ This project is an interactive Job Market Analytics Dashboard built using Micros
 
 The project demonstrates practical data analysis, dashboard development, and business intelligence skills using Excel.
 
----
 
 ## 📸 Dashboard Preview
 
